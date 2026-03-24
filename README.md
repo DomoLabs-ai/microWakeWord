@@ -1,3 +1,7 @@
+> **⚠️ ARCHIVED:** This repository has been archived. Active development has moved to a private internal repository.
+
+---
+
 ![microWakeWord logo](etc/logo.png)
 
 microWakeWord is an open-source wakeword library for detecting custom wake words on low power devices. It produces models that are suitable for using [TensorFlow Lite for Microcontrollers](https://www.tensorflow.org/lite/microcontrollers). The models are suitable for real-world usage with low false accept and false reject rates.
